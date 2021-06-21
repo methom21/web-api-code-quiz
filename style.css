@@ -1,0 +1,10 @@
+#startbtn {
+    margin-left: 450px; 
+}
+.text {
+    display: flex;
+  justify-content: space-around;
+}
+.hidden {
+  display: none;
+}
